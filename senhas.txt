@@ -1,0 +1,12 @@
+msfadmin
+admin
+password
+123456
+toor
+root
+letmein
+batman
+12345678
+service
+postgres
+senha123
